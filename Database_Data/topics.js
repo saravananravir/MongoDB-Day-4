@@ -1,0 +1,30 @@
+[{
+    "topic":"javascript_Day1",
+    "month":"june",
+    "task":"functions"
+},
+{
+    "topic":"javascript_Day2",
+    "month":"june",
+    "task":"for loops"
+},
+{
+    "topic":"javascript_Day3",
+    "month":"june",
+    "task":"Oops"
+},
+{
+    "topic":"html_Day1",
+    "month":"july",
+    "task":"blog about html"
+},
+{
+    "topic":"html_Day2",
+    "month":"july",
+    "task":"elements/tags"
+},
+{
+    "topic":"html_Day3",
+    "month":"july",
+    "task":"inputs"
+}]
